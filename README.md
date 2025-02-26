@@ -9,7 +9,7 @@ process complete type  Next command <br>`git clone https://github.com/asraful171
 # Injected module
 process complete type  Next command <br>`cd Gameing-performance-boost`<br>
 process complete type  Next command <br>`chmod +x *`<br>
-process complete type  Next command <br>`bash Exe.sh`<br>
+process complete type  Next command <br>`bash Boost.sh`<br>
 # Remove module
 process complete type  Next command <br>`cd Gameing-performance-boost`<br>
 process complete type  Next command <br>`chmod +x *`<br>
